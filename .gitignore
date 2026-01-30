@@ -1,0 +1,27 @@
+# Large bioinformatics data files
+*.fastq
+*.fastq.gz
+*.bam
+*.sam
+*.vcf
+*.vcf.gz
+*.fa
+*.fasta
+*.gtf
+*.bed
+
+# Compressed files
+*.gz
+*.zip
+*.tar
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+*~
+
+# Large data directories
+course_data/
+unix_data_tools/
+fasta_files/
