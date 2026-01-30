@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STCC - Unix Basics for Bioinformatics
 
 **Course Documentation by Eric Johnson**
@@ -633,3 +634,7 @@ These skills are non-negotiable for modern bioinformatics work and form the basi
 **License:** This documentation is for educational purposes as part of the STCC Unix course.
 
 **Acknowledgments:** Course instructors and reference materials from STCC Unix Basics for Bioinformatics.
+=======
+# Unix-Basics-Bioinformatics-STCC
+Documentation of Unix fundamentals learned in STCC for bioinformatics workflows
+>>>>>>> 58021074f6c3ef17f3b32106aade6d43c6b30b76
